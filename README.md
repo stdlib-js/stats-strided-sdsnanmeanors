@@ -63,7 +63,7 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
-import sdsnanmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-sdsnanmeanors@esm/index.mjs';
+import sdsnanmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-sdsnanmeanors@v0.1.1-esm/index.mjs';
 ```
 
 #### sdsnanmeanors( N, x, strideX )
@@ -169,7 +169,7 @@ var v = sdsnanmeanors.ndarray( 4, x, 2, 1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
-import sdsnanmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-sdsnanmeanors@esm/index.mjs';
+import sdsnanmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-sdsnanmeanors@v0.1.1-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
