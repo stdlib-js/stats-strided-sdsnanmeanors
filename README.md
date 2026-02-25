@@ -202,9 +202,23 @@ console.log( v );
 
 <!-- /.examples -->
 
-<!-- C usage documentation. -->
+<!-- C interface documentation. -->
 
 * * *
+
+<section class="c">
+
+## C APIs
+
+<!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
+
+<section class="intro">
+
+</section>
+
+<!-- /.intro -->
+
+<!-- C usage documentation. -->
 
 <section class="usage">
 
@@ -359,8 +373,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-strided-sdsnanmeanors.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-strided-sdsnanmeanors
 
-[test-image]: https://github.com/stdlib-js/stats-strided-sdsnanmeanors/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/stats-strided-sdsnanmeanors/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/stats-strided-sdsnanmeanors/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/stats-strided-sdsnanmeanors/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-strided-sdsnanmeanors/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-strided-sdsnanmeanors?branch=main
